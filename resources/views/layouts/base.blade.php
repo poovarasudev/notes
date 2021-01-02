@@ -10,7 +10,7 @@
 
 <body>
     <div class="container-fluid">
-        <nav class="navbar  navbar-dark bg-primary">
+        <nav class="navbar navbar-dark bg-warning">
             <button class="navbar-toggler hidden-sm-up" type="button" data-toggle="collapse" data-target="#navbar-header" aria-controls="navbar-header">
                 &#9776;
             </button>
